@@ -1,3 +1,7 @@
+#
+# Sam Ahrend 
+#  bashrc - 
+#
 
 export HISTCONTROL=ignoredups:erasedups
 export HISTSIZE=100000                   # big big history
