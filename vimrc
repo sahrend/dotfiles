@@ -22,6 +22,7 @@ set shiftwidth=4
 set scrolloff=4
 set undofile
 set undoreload=10000
+set viminfo='100,f1
 colorscheme ron
 "  }}}
 " Backup Directories {{{
