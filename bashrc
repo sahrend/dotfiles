@@ -1,6 +1,6 @@
 #
 # Sam Ahrend 
-#  bashrc - 
+#  bashrc - 20150926
 #
 
 export HISTCONTROL=ignoredups:erasedups
